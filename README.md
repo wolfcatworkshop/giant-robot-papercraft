@@ -23,16 +23,20 @@ You can explore the repository folders and download the files you need or you ca
 
 **Pepakura Files**
 
-Note: there is no difference between right and left when it comes to arms and feet. They are identical so make two of each.
+Note: there is no difference between right and left when it comes to arms and feet. They are identical so make two of each. If you don't have Pepakura Designer and you are just printing your own using the PDF file below you can use Pepakura Viewer to help you with the assembly. 
 
 * Head: [bigBoss-head.pdo](/pepakura-files/bigBoss-head.pdo)
 * Body: [bigBoss-body.pdo](/pepakura-files/bigBoss-body.pdo)
 * Arm: [bigBoss-arm.pdo](/pepakura-files/bigBoss-arm.pdo)
 * Foot: [bigBoss-foot.pdo](/pepakura-files/bigBoss-foot.pdo)
 
-[    ](/pepakura-files   )
+**PDF and SVG files for printing or cutting**
 
-Files for robot papercraft
+Note: I'm sharing this with the same dimensions I used, but you can use your favorite vector editing program to scale everything to a more human size if you need it. Fold lines are blue and cut lines are black. 
 
+* PDF file with all the parts:  [gr-papercraft-all-parts.pdf](/vector-files/gr-papercraft-all-parts.pdf)
+* SVG file with all the parts:  gr-papercraft-all-parts.svg](/vector-files/gr-papercraft-all-parts.svg)
 
-More about me at https://wolfcatWorkshop.com
+Happy making!
+
+You can find more of my work at https://wolfcatWorkshop.com or on Instagram [@wolfcatworkshop](https://www.instagram.com/wolfcatworkshop/)
