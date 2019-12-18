@@ -41,6 +41,7 @@ Note: I'm sharing this with the same dimensions I used, but you can use your fav
 ![papercraft all parts](/images/bigBoss-papercraft-all-parts.jpg)
 
 
+Big thanks to [Eric Nakamura](https://www.instagram.com/giantrobot/) for letting me use his design.
 Happy making!
 
 You can find more of my work at https://wolfcatWorkshop.com or on Instagram [@wolfcatworkshop](https://www.instagram.com/wolfcatworkshop/)
