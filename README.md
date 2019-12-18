@@ -35,7 +35,11 @@ Note: there is no difference between right and left when it comes to arms and fe
 Note: I'm sharing this with the same dimensions I used, but you can use your favorite vector editing program to scale everything to a more human size if you need it. Fold lines are blue and cut lines are black. 
 
 * PDF file with all the parts:  [gr-papercraft-all-parts.pdf](/vector-files/gr-papercraft-all-parts.pdf)
-* SVG file with all the parts:  gr-papercraft-all-parts.svg](/vector-files/gr-papercraft-all-parts.svg)
+* SVG file with all the parts:  [gr-papercraft-all-parts.svg](/vector-files/gr-papercraft-all-parts.svg)
+
+
+![papercraft all parts](/images/bigBoss-papercraft-all-parts.jpg)
+
 
 Happy making!
 
