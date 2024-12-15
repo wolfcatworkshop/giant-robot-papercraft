@@ -15,27 +15,33 @@ You can explore the repository folders and download the files you need or you ca
 
 **3d Models**
 
-* Blender file with all the parts: [bigBoss-all.blend](/3d-models/bigBoss-all.blend)
-* Head: [bigBoss-head.obj](/3d-models/bigBoss-head.obj)
-* Body: [bigBoss-body.obj](/3d-models/bigBoss-body.obj)
-* Arm: [bigBoss-arm.obj](/3d-models/bigBoss-arm.obj)
-* Foot: [bigBoss-foot.obj](/3d-models/bigBoss-foot.obj)
+https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-all.blend
+
+* Blender file with all the parts:
+* [bigBoss-all.blend](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-all.blend)
+* Head: [bigBoss-head.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-head.obj)
+* Body: [bigBoss-body.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-body.obj)
+* Arm: [bigBoss-arm.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-arm.obj)
+* Foot: [bigBoss-foot.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-foot.obj)
+
 
 **Pepakura Files**
 
 Note: there is no difference between right and left when it comes to arms and feet. They are identical so make two of each. If you don't have Pepakura Designer and you are just printing your own using the PDF file below you can use Pepakura Viewer to help you with the assembly. 
 
-* Head: [bigBoss-head.pdo](/pepakura-files/bigBoss-head.pdo)
-* Body: [bigBoss-body.pdo](/pepakura-files/bigBoss-body.pdo)
-* Arm: [bigBoss-arm.pdo](/pepakura-files/bigBoss-arm.pdo)
-* Foot: [bigBoss-foot.pdo](/pepakura-files/bigBoss-foot.pdo)
+* Head: [bigBoss-head.pdo](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/pepakura-files/bigBoss-head.pdo)
+* Body: [bigBoss-body.pdo](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/pepakura-files/bigBoss-body.pdo)
+* Arm: [bigBoss-arm.pdo](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/pepakura-files/bigBoss-arm.pdo)
+* Foot: [bigBoss-foot.pdo](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/pepakura-files/bigBoss-foot.pdo)
+
 
 **PDF and SVG files for printing or cutting**
 
 Note: I'm sharing this with the same dimensions I used, but you can use your favorite vector editing program to scale everything to a more human size if you need it. Fold lines are blue and cut lines are black. 
 
-* PDF file with all the parts:  [gr-papercraft-all-parts.pdf](/vector-files/gr-papercraft-all-parts.pdf)
-* SVG file with all the parts:  [gr-papercraft-all-parts.svg](/vector-files/gr-papercraft-all-parts.svg)
+* PDF file with all the parts: [gr-papercraft-all-parts.pdf](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/vector-files/gr-papercraft-all-parts.pdf)
+* SVG file with all the parts: [gr-papercraft-all-parts.svg](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/vector-files/gr-papercraft-all-parts.svg)
+
 
 
 ![papercraft all parts](/images/bigBoss-papercraft-all-parts.jpg)
