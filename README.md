@@ -17,8 +17,7 @@ You can explore the repository folders and download the files you need or you ca
 
 https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-all.blend
 
-* Blender file with all the parts:
-* [bigBoss-all.blend](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-all.blend)
+* Blender file with all the parts: [bigBoss-all.blend](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-all.blend)
 * Head: [bigBoss-head.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-head.obj)
 * Body: [bigBoss-body.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-body.obj)
 * Arm: [bigBoss-arm.obj](https://github.com/wolfcatworkshop/giant-robot-papercraft/blob/master/3D-models/bigBoss-arm.obj)
